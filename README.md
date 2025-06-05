@@ -2,6 +2,8 @@
 
 An embedded system for controlling and monitoring a DC fan using PWM, with dynamic LCD updates, stall detection, and real-time RPM measurement. Built using Microchip Studio and AVR C on the ATmega328P.
 
+![App Screenshot](https://github.com/EvinB/FanController/blob/main/FanController.png)
+
 ## Project Overview 
 - Controls fan speed via 20kHz PWM output on PD5
 - Displays real-time RPM and fan status on a 2x16 LCD
